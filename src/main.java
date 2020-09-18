@@ -2,7 +2,7 @@ import java.net.MalformedURLException;
 
 public class main {
     public static void main(String[] args) throws MalformedURLException, InterruptedException {
-        System.out.println("hello world");
+        // device name need to be adjusted when running different device
         String device_name = "emulator-5554";
         String platform_name = "android";
         String app_package = "com.google.android.apps.maps";
