@@ -18,10 +18,10 @@ Direction:
 6. Run the program.
 
 System Flow : 
-Open Google Map application from android emulator
-Skip Sign in request
-Search location (keyword : "jakarta")
-choose second option on the list
-pinch and zoom found location
+- Open Google Map application from android emulator
+- Skip Sign in request
+- Search location (keyword : "jakarta")
+- choose second option on the list
+- pinch and zoom found location
 
 
